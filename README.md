@@ -9,7 +9,8 @@ A. Algorithm #1
 2 set n = 0
 3 for every pair of people in the room
      Set n = n + 2
-  O(n/2)
+
+Complexity: O(n/2)
 
 B. Algorithm #2
 
@@ -17,5 +18,6 @@ B. Algorithm #2
 2 set n = 0
 3 for every 5 people in the room
      Set n = n + 5
-  O(n/5)
+  
+Complexity: O(n/5)
 
