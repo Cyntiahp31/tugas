@@ -1,4 +1,5 @@
-![Screenshot_20210817-221722_Gallery](https://user-images.githubusercontent.com/89081126/129749585-2807f3c0-4c59-463c-9842-d768005d5058.jpg)
+![Screenshot_20210817-221722_Gallery](https://user-images.githubusercontent.com/89081126/129750037-58316d4f-a476-4ecc-82d6-e65fb65c05af.jpg)
+
 
 Pseudocode Assignment
 
